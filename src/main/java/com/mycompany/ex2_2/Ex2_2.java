@@ -11,6 +11,7 @@ public class Ex2_2 {
 
     public static void main(String[] args) {
         System.out.println("Start program");
+        System.out.println("Бисиров Александр Васильевич. РИБО-02-22");
         String server = "https://android-for-students.ru";
         String serverPath = "/materials/practical/hello.php"; 
         HashMap<String,String> map = new HashMap();
